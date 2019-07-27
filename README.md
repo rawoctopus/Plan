@@ -12,6 +12,7 @@ TODO
 ## Resources
 ### Books
 - [알고리즘 문제 해결 전략](http://book.algospot.com/)
+- [코딩 인터뷰 완전 분석](http://www.crackingthecodinginterview.com/)
 
 ### Algorithim Problems
 - [Programmers](https://programmers.co.kr/)
